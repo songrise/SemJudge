@@ -1,7 +1,11 @@
-# On Semiotic-Grounded Interpretive Evaluation of Geneartive Art
+# On Semiotic-Grounded Interpretive Evaluation of Generative Art
 
-TL;DR: Existing Generative Art evaluation predominately focus on whether the image is attactive on **surface level**, which is misaligned with human artistry. This work explore how to understand and evaluate the **deeper, symbolic** meaning of generative art.
+Existing Generative Art evaluation mostly focuses on surface-level realism, aesthetics, or prompt matching. This project studies how to evaluate the deeper symbolic and interpretive meaning conveyed by generated art.
 
+## Teaser
 
+![Teaser](assets/teaser.png)
 
+## Main Figure (Figure 2)
 
+![Main Figure](assets/main-figure.png)
