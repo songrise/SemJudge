@@ -1,0 +1,2 @@
+# SemJudge
+SemJudge - Interpreting GenArt
